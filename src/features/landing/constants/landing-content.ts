@@ -13,14 +13,14 @@ export const brand = {
 };
 
 export const contact = {
-  whatsappNumber: "5500000000000",
-  whatsappDisplay: "(11) 99999-9999",
-  phoneDisplay: "(11) 3333-3333",
-  phoneHref: "tel:+551133333333",
+  whatsappNumber: "5511978488710",
+  whatsappDisplay: "(11) 97848-8710",
+  phoneDisplay: "(11) 97848-8710",
+  phoneHref: "tel:+5511978488710",
   instagram: "@seuinstagram",
   instagramHref: "https://www.instagram.com/seuinstagram",
-  address: "Rua das Flores, 123 - São Paulo, SP",
-  mapHref: "https://maps.google.com/?q=Rua%20das%20Flores%20123%20Sao%20Paulo%20SP",
+  address: "Rua dos Ipês, 320 - Ferraz de vasconcelos, SP",
+  mapHref: "https://maps.google.com/?q=Rua%20dos%20Ipês%20320%20Ferraz%20de%20Vasconcelos%20SP",
 };
 
 const whatsappText = encodeURIComponent(
@@ -44,7 +44,7 @@ export const trustHighlights: BenefitItem[] = [
   },
   {
     title: "Instalação profissional",
-    description: "Equipe especializada",
+    description: "Serviços especializados",
     icon: "worker",
   },
   {

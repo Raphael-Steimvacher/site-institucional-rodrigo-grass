@@ -1,5 +1,5 @@
-import { brand } from "@/features/landing/constants/landing-content";
 import { BrandLogo } from "@/features/landing/components/brand-logo";
+import { brand } from "@/features/landing/constants/landing-content";
 
 export function LandingFooter() {
   return (

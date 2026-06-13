@@ -1,9 +1,9 @@
 import { Calculator, CheckCircle2, MessageCircle } from "lucide-react";
 
 import { buttonVariants } from "@/components/ui/button";
-import { contactLinks, primaryWhatsappHref } from "@/features/landing/constants/landing-content";
 import { contactIconMap } from "@/features/landing/components/landing-icons";
 import { SectionHeading } from "@/features/landing/components/section-heading";
+import { contactLinks, primaryWhatsappHref } from "@/features/landing/constants/landing-content";
 import { cn } from "@/lib/utils";
 
 export function ContactSection() {

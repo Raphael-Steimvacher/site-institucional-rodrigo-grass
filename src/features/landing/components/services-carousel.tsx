@@ -1,7 +1,7 @@
 "use client";
 
-import Autoplay from "embla-carousel-autoplay";
 import * as React from "react";
+import Autoplay from "embla-carousel-autoplay";
 
 import {
   Carousel,
@@ -10,8 +10,8 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel";
-import { serviceItems } from "@/features/landing/constants/landing-content";
 import { ServiceCard } from "@/features/landing/components/service-card";
+import { serviceItems } from "@/features/landing/constants/landing-content";
 
 export function ServicesCarousel() {
   const autoplay = React.useMemo(

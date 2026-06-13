@@ -1,5 +1,5 @@
-import { trustHighlights } from "@/features/landing/constants/landing-content";
 import { benefitIconMap } from "@/features/landing/components/landing-icons";
+import { trustHighlights } from "@/features/landing/constants/landing-content";
 
 export function TrustBar() {
   return (

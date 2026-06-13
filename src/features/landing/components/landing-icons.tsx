@@ -7,6 +7,7 @@ import {
   DoorOpen,
   FileCheck2,
   Hammer,
+  type LucideIcon,
   MapPin,
   MessageCircle,
   PanelTop,
@@ -15,7 +16,6 @@ import {
   ShieldCheck,
   Sparkles,
   Wrench,
-  type LucideIcon,
 } from "lucide-react";
 
 import type {

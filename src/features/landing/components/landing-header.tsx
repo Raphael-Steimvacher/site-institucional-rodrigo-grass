@@ -13,12 +13,12 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet";
+import { BrandLogo } from "@/features/landing/components/brand-logo";
 import {
   brand,
   navigationItems,
   primaryWhatsappHref,
 } from "@/features/landing/constants/landing-content";
-import { BrandLogo } from "@/features/landing/components/brand-logo";
 import { cn } from "@/lib/utils";
 
 export function LandingHeader() {

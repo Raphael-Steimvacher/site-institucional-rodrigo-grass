@@ -1,8 +1,8 @@
 import Image from "next/image";
 import { MessageCircle, ShieldCheck } from "lucide-react";
 
-import { buttonVariants } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
+import { buttonVariants } from "@/components/ui/button";
 import { brand, primaryWhatsappHref } from "@/features/landing/constants/landing-content";
 import { cn } from "@/lib/utils";
 
@@ -16,7 +16,7 @@ export function HeroSection() {
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(255,255,255,0.95),transparent_20rem),linear-gradient(90deg,rgba(255,255,255,0.85),rgba(255,255,255,0.15))]" />
       <div className="absolute right-0 bottom-0 hidden h-full w-1/2 bg-[linear-gradient(90deg,transparent,rgba(15,101,210,0.08))] lg:block" />
 
-      <div className="relative mx-auto grid min-h-[calc(100svh-5rem)] max-w-7xl items-center gap-8 px-4 py-12 sm:px-6 md:py-16 lg:min-h-[660px] lg:grid-cols-[1.02fr_0.98fr] lg:px-8 lg:py-20">
+      <div className="relative mx-auto grid min-h-[calc(100svh-5rem)] max-w-7xl items-center gap-8 px-4 py-12 sm:px-6 md:py-16 lg:min-h-165 lg:grid-cols-[1.02fr_0.98fr] lg:px-8 lg:py-20">
         <div className="max-w-2xl">
           <Badge
             variant="secondary"

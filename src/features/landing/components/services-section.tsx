@@ -1,5 +1,5 @@
-import { ServicesCarousel } from "@/features/landing/components/services-carousel";
 import { SectionHeading } from "@/features/landing/components/section-heading";
+import { ServicesCarousel } from "@/features/landing/components/services-carousel";
 
 export function ServicesSection() {
   return (

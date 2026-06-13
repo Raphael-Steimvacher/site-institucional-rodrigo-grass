@@ -1,5 +1,5 @@
-import { differentiators } from "@/features/landing/constants/landing-content";
 import { benefitIconMap } from "@/features/landing/components/landing-icons";
+import { differentiators } from "@/features/landing/constants/landing-content";
 
 export function DifferentiatorsSection() {
   return (
