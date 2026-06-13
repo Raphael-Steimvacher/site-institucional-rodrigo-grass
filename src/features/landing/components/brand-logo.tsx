@@ -22,19 +22,19 @@ export function BrandLogo({ className, compact = false }: BrandLogoProps) {
         <Image
           src="/images/glazier-mascot.png"
           alt=""
-          width={88}
-          height={122}
-          className="absolute -bottom-4 h-18 w-auto sm:h-21"
+          width={160}
+          height={160}
+          className="absolute -bottom-4 h-17 w-auto sm:h-19"
           priority
         />
       </span>
       {!compact && (
         <span className="min-w-0 leading-none">
           <span className="block text-sm font-bold text-slate-900 sm:text-base">
-            Nome da
+            Vidraçaria
           </span>
           <span className="block text-xl font-extrabold text-blue-700 sm:text-2xl">
-            VIDRAÇARIA
+            Rodrigo GRASS
           </span>
         </span>
       )}

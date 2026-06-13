@@ -10,7 +10,8 @@ export function HeroSection() {
   return (
     <section
       id="inicio"
-      className="relative overflow-hidden border-b border-blue-100/80 bg-[linear-gradient(100deg,#f7fbff_0%,#eef7ff_52%,#dceeff_100%)]"
+      className="relative overflow-hidden border-b border-blue-100/80 
+      bg-[linear-gradient(100deg,#f7fbff_0%,#eef7ff_52%,#dceeff_100%)]"
     >
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(255,255,255,0.95),transparent_20rem),linear-gradient(90deg,rgba(255,255,255,0.85),rgba(255,255,255,0.15))]" />
       <div className="absolute right-0 bottom-0 hidden h-full w-1/2 bg-[linear-gradient(90deg,transparent,rgba(15,101,210,0.08))] lg:block" />
