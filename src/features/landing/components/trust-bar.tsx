@@ -4,7 +4,7 @@ import { trustHighlights } from "@/features/landing/constants/landing-content";
 export function TrustBar() {
   return (
     <section className="relative z-10 -mt-8 px-4 sm:px-6 lg:px-8" aria-label="Destaques de confiança">
-      <div className="mx-auto grid max-w-6xl gap-4 rounded-2xl border border-blue-100 bg-white p-4 shadow-xl shadow-blue-950/10 md:grid-cols-3 md:p-5">
+      <div className="mx-auto grid max-w-7xl gap-4 rounded-2xl border border-blue-100 bg-white p-4 shadow-xl shadow-blue-950/10 md:grid-cols-3 md:p-5">
         {trustHighlights.map((item) => {
           const Icon = benefitIconMap[item.icon];
 

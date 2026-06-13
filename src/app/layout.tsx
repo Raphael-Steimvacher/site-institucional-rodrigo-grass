@@ -10,11 +10,11 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://example.com"),
-  title: "Nome da Vidraçaria | Vidros e Espelhos Sob Medida",
+  title: "Rodrigo GRASS | Vidros e Espelhos Sob Medida",
   description:
     "Serviços de vidraçaria sob medida para residências, comércios e condomínios. Solicite orçamento pelo WhatsApp.",
   openGraph: {
-    title: "Nome da Vidraçaria | Vidros e Espelhos Sob Medida",
+    title: "Rodrigo GRASS | Vidros e Espelhos Sob Medida",
     description:
       "Box, espelhos, portas, janelas, sacadas, guarda-corpos e projetos sob medida em vidro.",
     type: "website",
