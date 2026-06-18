@@ -17,8 +17,8 @@ export const contact = {
   whatsappDisplay: "(11) 97848-8710",
   phoneDisplay: "(11) 97848-8710",
   phoneHref: "tel:+5511978488710",
-  instagram: "@seuinstagram",
-  instagramHref: "https://www.instagram.com/seuinstagram",
+  instagram: "@digooo44",
+  instagramHref: "https://www.instagram.com/digooo44/",
   address: "Rua dos Ipês, 320 - Ferraz de vasconcelos, SP",
   mapHref: "https://maps.google.com/?q=Rua%20dos%20Ipês%20320%20Ferraz%20de%20Vasconcelos%20SP",
 };
