@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://example.com"),
+  metadataBase: new URL("https://rodrigograss.com.br"),
   title: "Rodrigo GRASS | Vidros e Espelhos Sob Medida",
   description:
     "Serviços de vidraçaria sob medida para residências, comércios e condomínios. Solicite orçamento pelo WhatsApp.",
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
         url: "/images/glazier-mascot.png",
         width: 794,
         height: 1110,
-        alt: "Mascote vidraceiro segurando uma placa de vidro",
+        alt: "Mascote vidraceiro da Rodrigo GRASS segurando uma placa de vidro",
       },
     ],
   },

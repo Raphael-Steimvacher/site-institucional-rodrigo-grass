@@ -16,6 +16,10 @@ export type ServiceItem = {
   description: string;
   icon: "bath" | "sparkles" | "balcony" | "door" | "window" | "shield" | "wrench";
   visual: "bathroom" | "mirror" | "balcony" | "door" | "window" | "guardrail" | "maintenance";
+  image: {
+    src: string;
+    alt: string;
+  };
 };
 
 export type BenefitItem = {

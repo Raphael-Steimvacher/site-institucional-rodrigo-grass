@@ -26,13 +26,14 @@ export function HeroSection() {
           </Badge>
 
           <h1 className="text-4xl leading-tight font-extrabold tracking-tight text-slate-950 sm:text-5xl lg:text-6xl">
-            Vidros e espelhos sob medida para sua{" "}
-            <span className="text-blue-700">casa e empresa</span>
+            Rodrigo GRASS: vidros sob medida com{" "}
+            <span className="text-blue-700">instalação impecável</span>
           </h1>
 
           <p className="mt-5 max-w-xl text-base leading-8 text-slate-600 sm:text-lg">
-            Soluções em vidro com acabamento impecável, instalação profissional e
-            atendimento que você pode confiar.
+            Transforme seus ambientes com box, espelhos, portas, janelas, sacadas e
+            guarda-corpos feitos na medida, com acabamento limpo e atendimento direto pelo
+            WhatsApp.
           </p>
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:items-center">
